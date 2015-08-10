@@ -1,0 +1,6 @@
+{
+  "name": "node-watcher-notifier",
+  "dependencies":{
+    "node-notifier": "4.2.3"
+  }
+}
